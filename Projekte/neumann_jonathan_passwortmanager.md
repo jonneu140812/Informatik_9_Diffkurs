@@ -16,4 +16,24 @@
     - Zwei-Faktor-Authentifizierung minimiert die Risiken dem es einen Weiteren Schritt zum anmelden hinzufügt. Dadurch reich meist nicht mehr nur ein einzieges Passwort.
     - Phishing beschreibt denn versuch von einen schlechten schauspieler an Private Daten von anderen zu kömmen; dies passiert meist dur soziale methoden.
 
+## [1Password](1password.com)
 
+
+
+### Preise
+
+- Einzelperson
+    - Jahrlich: 3.65 Euro pro monat
+    - Monatlich: 4.39 Euro
+- Familie
+    - Jahrlich: 4.31 Euro pro monat 
+    - Monatlich: 6.99 Euro
+
+---
+
+### Sicherheit
+
+- End-to-End Encryption
+- dual-key encryption
+    - Die Passwörter sind mit einem passwort und ein 128-bit Secret Key verschlüsselt
+- 
