@@ -41,7 +41,6 @@
 - 
 
 
-<<<<<<< HEAD
 ## [Bitwarden](https://bitwarden.com/)
 
 
@@ -60,6 +59,3 @@
 
 - Verschlüsselung
    - HMAC-SHA-256: 600.000 Hashing-Vorgänge
-=======
-
->>>>>>> 0f3396837fe97d1b3a4f63cdc839966a2f8f2470
