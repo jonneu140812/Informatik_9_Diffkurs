@@ -43,7 +43,6 @@
 
 ## [Bitwarden](https://bitwarden.com/)
 
-
 ### Preis
 
 - Einzelperson
@@ -59,3 +58,5 @@
 
 - Verschlüsselung
    - HMAC-SHA-256: 600.000 Hashing-Vorgänge
+   - Zero-Knowledge Verschlüsselung
+   - 
