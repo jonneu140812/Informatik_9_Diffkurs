@@ -90,4 +90,8 @@ style: |
 - Verschlüsselung
    - HMAC-SHA-256: 600.000 Hashing-Vorgänge
    - Zero-Knowledge Verschlüsselung
+   - Vault Health Reports: Warnt bei Sicherheitsverletzunfen
+- Sicherheitszertifikate
+   - ISO 27001
+   - SOC 2 Typ II
 
