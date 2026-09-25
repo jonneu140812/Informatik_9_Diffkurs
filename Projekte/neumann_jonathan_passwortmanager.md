@@ -1,7 +1,14 @@
 ---
 marp: true
-theme: default
 paginate: true
+style: |
+  section {
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    background-color: #f8f7f7;
+    color: #0f0f0f;
+  }
 ---
 
 # Passwortmanager
@@ -15,12 +22,16 @@ paginate: true
 
 ---
 
+## Warum braucht man einen Passwortmanager 
+
 1. Warum sind lange, einzigartige und zufällig erzeugte Passwörter schwer selbst zu verwalten
     - gute passwörter sind lange und bestehen aus zufälligen zeichen. Diese Passwörter sind sich schwer zu merken weil sie meist >12 zeichen sind und besondere zeichen beinhalten. Deswegen wurden die meisten leute sie sich nicht merken sonderen anderwegst speichen wie auf z.B post-it notes oder in Text datein, beide dies optionen haben große sicherheits risiken.
 1. Welche Vorteile kann ein Passwortmanager bieten?
     - Ein Passwortmanager gibt die möglichkeit Passwörter sicher zu speichern. Dies erreicht der Passwortmanager indem er die Passwörter nicht in reintext speichert. Um diese Passwörter lesen zu können muss man ein Masterpasswort nutzen.
 
 ---
+
+## Warum braucht man einen Passwortmanager
 
 1. Welche Risiken oder Nachteile bleiben trotz Passwortmanager bestehen?
     - Datenlecks können eine Chat-history oder Passwörter öffendlich bekannt machen. Das Masterpasswort ist das was die alle passworter sicher hält wird dieses Passwort bekannt sind auch alle anderen nicht mehr sicher. Selbst ist man das grösste risiko denn teilt man Passworter ist dies naturlich auch ein Risiko.
@@ -44,6 +55,8 @@ paginate: true
 
 
 ---
+
+## [1Password](https://1password.com/)
 
 ### Sicherheit
 
@@ -70,13 +83,11 @@ paginate: true
 
 ---
 
+## [Bitwarden](https://bitwarden.com/)
+
 ### Sicherheit
 
 - Verschlüsselung
    - HMAC-SHA-256: 600.000 Hashing-Vorgänge
    - Zero-Knowledge Verschlüsselung
-   - Vault Health Reports: Warnt bei Sicherheitsverletzunfen
-- Sicherheitszertifikate
-   - ISO 27001
-   - SOC 2 Typ II
 
