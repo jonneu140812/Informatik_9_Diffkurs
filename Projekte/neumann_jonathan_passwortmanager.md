@@ -37,3 +37,23 @@
 - dual-key encryption
     - Die Passwörter sind mit einem passwort und ein 128-bit Secret Key verschlüsselt
 - 
+
+
+## [Bitwarden](https://bitwarden.com/)
+
+
+### Preis
+
+- Einzelperson
+   - Jährlich 1,45 € im Monat: 17,39 € im Jahr
+- Familie
+   - Jährlich 3,50 € im Monat: 42,14 € im Jahr
+- Team
+   - 3,51 € im Monat pro Nutzer. Wird jährlich abgerechnet.
+-  Enterprise
+   - 5,27 € im Monat pro Nutzer. Wird jährlich abgrechnet.
+
+### Sicherheit
+
+- Verschlüsselung
+   - HMAC-SHA-256: 600.000 Hashing-Vorgänge
