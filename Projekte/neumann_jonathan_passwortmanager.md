@@ -16,29 +16,32 @@
     - Zwei-Faktor-Authentifizierung minimiert die Risiken dem es einen Weiteren Schritt zum anmelden hinzufügt. Dadurch reich meist nicht mehr nur ein einzieges Passwort.
     - Phishing beschreibt denn versuch von einen schlechten schauspieler an Private Daten von anderen zu kömmen; dies passiert meist dur soziale methoden.
 
-## [1Password](1password.com)
+## [1Password](https://1password.com/)
 
 
 
 ### Preise
 
 - Einzelperson
-    - Jahrlich: 3.65 Euro pro monat
-    - Monatlich: 4.39 Euro
+    - Jahrlich: 3.65 € pro monat
+    - Monatlich: 4.39 €
 - Familie
-    - Jahrlich: 4.31 Euro pro monat 
-    - Monatlich: 6.99 Euro
-
+    - Jahrlich: 4.31 € pro monat 
+    - Monatlich: 6.99 €
 ---
 
 ### Sicherheit
 
 - End-to-End Encryption
+- PBKDF2-HMAC-SHA256 key strengthening
+- AES-GCM-256 encryption
 - dual-key encryption
     - Die Passwörter sind mit einem passwort und ein 128-bit Secret Key verschlüsselt
+- Warnt bei Sicherheitsverletzung
 - 
 
 
+<<<<<<< HEAD
 ## [Bitwarden](https://bitwarden.com/)
 
 
@@ -57,3 +60,6 @@
 
 - Verschlüsselung
    - HMAC-SHA-256: 600.000 Hashing-Vorgänge
+=======
+
+>>>>>>> 0f3396837fe97d1b3a4f63cdc839966a2f8f2470
