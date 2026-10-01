@@ -15,11 +15,4 @@ print(type(13.9))
 print(type("19"))
 # string
 
-print(type("Quatsch"))
-# string
-
-print(type('a'))
-# string
-
-print(type('ABC'))
-# string
+print(type())
