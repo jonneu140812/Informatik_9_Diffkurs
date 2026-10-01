@@ -71,8 +71,9 @@ style: |
 ## [Bitwarden](https://bitwarden.com/)
 
 ### Preis
-
 - Einzelperson
+   - Kostenlos
+- Einzelperson Premium
    - Jährlich 1,45 € im Monat: 17,39 € im Jahr
 - Familie
    - Jährlich 3,50 € im Monat: 42,14 € im Jahr
@@ -82,6 +83,25 @@ style: |
    - 5,27 € im Monat pro Nutzer. Wird jährlich abgrechnet.
 
 ---
+## [Bitwarden](https://bitwarden.com/)
+
+### Kostenlose Features
+- Unbegrenzte Passwörter speichern
+- Alle Browser-Erweiterung die es für Bitwarden gibt
+- Zugriff auf die iOS, Android, Windows, macOS und Linux Apps
+- Passwort-Synchronisierung auf allen Geräten
+- *Grundlegende* Sicherheit mit Ende-zu-Ende Verschlüsselung
+- Passwort Import Funktion
+---
+ ## [Bitwarden](https://bitwarden.com/)
+
+ ### Bezahlte Features
+ - Integrierter Authentifikator (2FA)
+ - Datei-Anhänge (Bis zu 1GB Speicher)
+ - Notfall-Zugriff: Falls was passiert können bestimmte Leute auf deinen Vault zugreifen
+ - Vault-Gesundheitsberichte (Identifiziert schwache Passwörter) 
+ -
+ ---
 
 ## [Bitwarden](https://bitwarden.com/)
 
@@ -90,7 +110,7 @@ style: |
 - Verschlüsselung
    - HMAC-SHA-256: 600.000 Hashing-Vorgänge
    - Zero-Knowledge Verschlüsselung
-   - Vault Health Reports: Warnt bei Sicherheitsverletzunfen
+   - Vault Health Reports: Warnt bei Sicherheitsverletzungen
 - Sicherheitszertifikate
    - ISO 27001
    - SOC 2 Typ II
