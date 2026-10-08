@@ -1,7 +1,4 @@
-# Rechere Dokumentation 
-
-
-
+#  Dokumentation 
 
 ## 15.9
 - Marp zu der Prasentation hinzugefügt 
@@ -16,3 +13,8 @@
 - Mehr zu den Proton Seiten hinzugefügt
 - https://bitwarden.com/
 - kommentare hinzugefügt
+
+# 8.10 
+- Probleme mit Bildschrim Arrangement
+- Kommentare zu slides hinzugefügt
+- recherche.md erweitert
