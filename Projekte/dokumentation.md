@@ -18,3 +18,8 @@
 - Probleme mit Bildschrim Arrangement
 - Kommentare zu slides hinzugefügt
 - recherche.md erweitert
+
+# 9.10 
+- kommentare zu Proton Pass hinzugefügt
+- KeePassXC teil erwertert
+

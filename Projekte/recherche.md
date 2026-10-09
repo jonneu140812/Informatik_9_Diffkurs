@@ -2,10 +2,18 @@
 
 Sollte man einen Passwort Manager nutzen und wenn ja welchen? 
 
+# Quelleb
+- https://www.chip.de/artikel/Test-Die-besten-Passwort-Manager-Vergleich_182620837.html (9.10)
+- https://proton.me/pass (8.10)
+- https://1password.com/ (8.10)
+- https://keepassxc.org (8.10)
+
+
 #  Dienste
 - https://proton.me/pass (8.10)
 - https://1password.com/ (8.10)
-- keepassxc.org (8.10)
+- https://keepassxc.org (8.10)
+
 
 ## Überblick
 
@@ -22,7 +30,7 @@ Sollte man einen Passwort Manager nutzen und wenn ja welchen?
 ### KeepassXC
 - Kostenlos, keine bazahlte version
 - Zero-Knowledge, weil es ist lokal
-- fehlende Sync functionalität, weil passworter nur lokal sind
+- zwar besitzten online optionen, aber meist lokal
 
 # Kriterien
 
