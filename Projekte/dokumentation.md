@@ -23,3 +23,5 @@
 - kommentare zu Proton Pass hinzugefügt
 - KeePassXC teil erwertert
 
+# 15.10
+- leichte kommentar änderung
