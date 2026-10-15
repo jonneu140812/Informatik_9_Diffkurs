@@ -1,8 +1,8 @@
 
-preis: int = int(input("Preis: "))
-rabatt: int = int(input("Rabatt: "))
+preis: float = float(input("Preis: "))
+rabatt: float = float(input("Rabatt: "))
 
-rabattPreis = preis * rabatt / 100
+rabattPreis: float = preis * rabatt / 100
 
-print(f"Der Rabatt betragt {rabattPreis} Euro")
-print(f"Der neue Preis beträgt {preis - rabattPreis} Euro")
+print(f"Der Rabatt betragt {rabattPreis:.2f} Euro")
+print(f"Der neue Preis beträgt {preis - rabattPreis:.2f} Euro")
