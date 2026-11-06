@@ -115,5 +115,23 @@ Von de.wikipedia.org war die IP anders dies konnte so sein damit sich die server
 
 ## Vertiefung: Aufgabe 5
 
+URL eingeben -> Eingabe
+DNS-Auflösung -> Verarbeitung 
+Anfrage verarbeiten -> Verarbeitung 
+Webseite anzeigen -> Ausgabe 
+
+Vertraulichkeit -> nicht jeder kann deine Daten lesen, sondern nur manche 
+Integrität ->  bei z.B einem Download darf die herunterlade datei sich nicht werend des downloads verändern
+Verfügbarkeit -> Auf daten kann zu gegriffen werden, falls die benötigt sind
+
+HTTPS verschlüselt die verbindung nur alles was durch andere wege unsicher war werden nicht dadurch sicherer.
+Zusätlich heist das auch nicht das jede website die HTTPS nutzt unvertrauenswürdig sei
+
+## Vertiefung: Aufgabe 6
+
+Nehmen wir z.B eine Firma wie Amazon als beispiel, solche Firmen würden Internetdienste nutzens um zu tracken wo die produkte gelagert sind. Ein solcher weg macht es leicht zu wissen wo alle produkte sind, aber hat der server probleme muss jede berwegeung der produkte angehalten werden bis das problem gelöst wurde.
+
+
+
 
 
