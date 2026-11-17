@@ -65,11 +65,17 @@ def main() -> None:
     print(farben[len(farben) - 1])
 
     # - Wenn es die Farbe 'Orange' noch nicht in der Liste gibt, dann füge sie ans Ende der Liste ein.
+    if farben.count("Orange") == 0:
+        farben.append("Orange")
+    print(farben)
 
     # - Sortiere die erste Liste.
+    farben.sort()
+    print(farben)
 
     # - Lösche alle Elemente aus der Liste.
-
+    farben.clear()
+    print(farben)
 
 if __name__ == "__main__":
     main()
