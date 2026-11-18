@@ -65,7 +65,7 @@ def main() -> None:
     print(farben[len(farben) - 1])
 
     # - Wenn es die Farbe 'Orange' noch nicht in der Liste gibt, dann füge sie ans Ende der Liste ein.
-    if farben.count("Orange") == 0:
+    if "Orange" not in farben:
         farben.append("Orange")
     print(farben)
 
