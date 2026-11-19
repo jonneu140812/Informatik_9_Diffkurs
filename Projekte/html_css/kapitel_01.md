@@ -63,3 +63,33 @@ das ist eine zeile Text. Die zeilen umbrüche werden ignoriert.
 # Vertiefung
 
 ## A1
+
+als .docx kann vscode es nicht lesen und es gibt fiel extra zeichen 
+
+als .txt ist nur text in der datei
+
+txt und md sind warscheinlich plain text
+
+## A2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--  Element head is missing a required instance of child element title. 
+head braucht einen titel. ich habe ihm einen -->
+    <title> hallo </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<!--  End tag h2 seen, but there were open elements. h1 wurde nie geschlossen. h2 wurde geschlossen aber nie geoffnet. ich habe h1 geschlossen. -->
+    <h1>Meine tolle Webseite</h1>
+    <p>Text</p>
+<ol>
+    <li>Zimmer aufräumen
+    <li>Hausaufgaben machen<br>Mit Bello Gassi gehen</li>
+    <li>Spülmaschine ausräumen</li>
+<!-- Unclosed element ol. ol wurde nie geschlossen und ul nie gefönnet. ich habe /ul zu /ol gemacht -->
+</ol>
+</body>
+</html>
