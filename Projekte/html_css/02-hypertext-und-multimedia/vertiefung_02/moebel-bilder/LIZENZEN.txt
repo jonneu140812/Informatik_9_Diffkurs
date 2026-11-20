@@ -1,0 +1,23 @@
+Bildnachweise (Quelle: Wikimedia Commons, https://commons.wikimedia.org/)
+
+Die Dateien sind unverändert. Wer sie weitergibt, muss Urheber, Lizenz und Quelle nennen. Bei CC BY-SA muss die Weitergabe unter derselben Lizenz erfolgen.
+
+Datei              | Commons-Datei                 | Urheber                          | Lizenz
+-------------------|-------------------------------|----------------------------------|----------------
+bed-modern.svg     | File:Bed.svg                  | Patredbro                        | CC BY-SA 4.0
+cabinet.svg        | File:Cabinet2.svg             | MScharwies                       | CC BY-SA 4.0
+desk.svg           | File:Desk-with-chair.svg      | MScharwies                       | CC BY 4.0
+filing-cabinet.svg | File:Filing cabinet icon.svg  | sa-ki; Vektorisierung: Indolences| Public Domain
+chair.svg          | File:Chair.svg                | Dhanesh95                        | CC0
+cupboard.svg       | File:Cupboard.svg             | MScharwies                       | CC BY-SA 4.0
+cabinet-axo.svg    | File:Cabinet axo.svg          | Paul Robinson (Rfc1394)          | CC BY-SA 3.0
+dresser.svg        | File:Dresser.svg              | Seahen                           | LGPL
+dresser-axo.svg    | File:Dresser axo.svg          | Seahen                           | LGPL
+table.svg          | File:Table.svg                | Seahen                           | LGPL
+
+Lizenztexte:
+CC BY 4.0     https://creativecommons.org/licenses/by/4.0/
+CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
+CC BY-SA 3.0  https://creativecommons.org/licenses/by-sa/3.0/
+CC0 1.0       https://creativecommons.org/publicdomain/zero/1.0/
+Seite jeder Datei: https://commons.wikimedia.org/wiki/File:<Commons-Datei>

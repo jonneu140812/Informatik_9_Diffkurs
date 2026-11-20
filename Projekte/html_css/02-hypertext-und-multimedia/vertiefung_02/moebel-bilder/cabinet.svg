@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="f" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="10%" stop-color="#fff"/>
+      <stop offset="80%" stop-color="red"/>
+      <stop offset="100%" stop-color="#8b0000"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#ffe091"/>
+      <stop offset="1" stop-color="#ff6d00"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#ffe091"/>
+      <stop offset=".79774499" stop-color="#ff6d00"/>
+      <stop offset="1" stop-color="#cf3f00"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="c" x1="0%" x2="0%" y1="0%" y2="100%"/>
+    <linearGradient xlink:href="#a" id="d" x1="0%" x2="100%" y1="0%" y2="0"/>
+  </defs>
+  <path fill="url(#b)" stroke="#460000" stroke-width="2" d="M30 25h200v200H30z"/>
+  <rect width="215" height="12" x="20" y="13" fill="url(#c)" stroke="#460000" stroke-width="2" rx="4"/>
+  <path id="e" fill="url(#d)" stroke="#460000" stroke-width="2" d="M30 225v13c.000004 1.7 1.32 3 3 3h4c1.78 0 3-1.32 3-3v-13H30z"/>
+  <use xlink:href="#e" width="256" height="256" transform="translate(190)"/>
+  <path fill="none" stroke="#460000" stroke-width="2" d="M130 25v200"/>
+  <circle id="g" cx="110" cy="44" r="8" fill="url(#f)" stroke="#000" stroke-width="1.5"/>
+  <use xlink:href="#g" width="256" height="256" transform="translate(40)"/>
+</svg>

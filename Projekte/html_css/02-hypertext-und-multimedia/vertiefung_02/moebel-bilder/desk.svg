@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 750">
+  <title>Schreibtisch</title>
+	<desc>Source: https://commons.wikimedia.org/wiki/File:Ryansdesk.svg - an Nuvola-Style angepasst und auf 5% der Dateigröße geschrumpft! </desc>
+<defs>
+    <linearGradient	id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+			<stop offset="10%" stop-color="white" />
+			<stop offset="80%" stop-color="red" /> 
+			<stop offset="100%" stop-color="darkred" /> 			
+</linearGradient>
+<linearGradient	id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+			<stop offset="5%" stop-color="white" />
+			<stop offset="10%" stop-color="#ffeebb" />
+			<stop offset="100%" stop-color="#ffd282" /> 
+</linearGradient>
+<linearGradient id="grad3" x1="0%" y1="0%" x2="0%" y2="100%" >
+		<stop stop-color="#ffe091" offset="0"/>
+		<stop stop-color="#ff6d00" offset="1"/>
+</linearGradient>	
+<linearGradient id="grad4" >
+		<stop id="stop406" stop-color="#ffe091" offset="0"/>
+		<stop id="stop408" stop-color="#ff6d00" offset="0.79774499"/>
+		<stop id="stop410" stop-color="#cf3f00" offset="1"/>
+	</linearGradient>	
+<linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="gradVertical" xlink:href="#grad4" />
+<linearGradient x1="0%" y1="0%" x2="100%" y2="0" id="gradHorizontal" xlink:href="#grad4" />
+</defs>	
+<style type="text/css">
+.frame1 {fill: black; stroke:black; stroke-width:1;
+}
+.frame2 {fill: grey; stroke:black; stroke-width:0;
+}
+</style>
+
+<rect width="100%" height="100%" style="fill:none;stroke:#132c39; stroke-width:0" />	
+
+<path id="backside" d="m20,360 l450-80 l 450,80 v200 l-450-110 l -450,100z" style="fill: SaddleBrown; fill-opacity:0.3; stroke:black; stroke-width:1;"/>
+<path id="feet" d="m 22,645 0,13 c 4e-6,1.7 1.32,3 3,3 l 4,0 c 1.78,0 3,-1.32 3,-3 l 0,-13 -10,0 z"  style="fill:url(#gradHorizontal);stroke-width:2;stroke:#460000"/>
+<use xlink:href="#feet" transform="translate(160,60)" x="0" y="0" width="256" height="256" />
+<use xlink:href="#feet" transform="translate(297,30)" x="0" y="0" width="256" height="256" />
+<path id="foot" d="m 465,360 0,170 c 4e-6,1.7 1.32,3 3,3 l 4,0 c 1.78,0 3,-1.32 3,-3 l 0,-170 -10,0 z"  style="fill:url(#gradHorizontal);stroke-width:2;stroke:#460000"/>
+<g id="front" transform="translate(170,378) skewY(-15) scale(0.7,1.5)">
+<rect id="body" width="200" height="200" x="30" y="25" style="fill:url(#grad3);stroke-width:2;stroke:#460000"/>
+
+
+
+
+
+<g id="drawer">
+<rect style="fill:url(#grad2);stroke:#824f26;stroke-width:1.5" x="58" y="30" rx="1" width="140" height="27" />
+<ellipse style="fill:url(#grad1);stroke:black;stroke-width:1.5" cx="128" cy="44" rx="8" ry="4"  />
+</g>
+
+<use transform="translate(0,33)" x="0" y="0" width="256" height="256" xlink:href="#drawer"/>
+<use transform="translate(0,66)" x="0" y="0" width="256" height="256" xlink:href="#drawer"/>
+<use transform="translate(0,99)" x="0" y="0" width="256" height="256" xlink:href="#drawer"/>
+<use transform="translate(0,132)" x="0" y="0" width="256" height="256" xlink:href="#drawer"/>
+<use transform="translate(0,164)" x="0" y="0" width="256" height="256" xlink:href="#drawer"/>
+</g>
+
+<path id="tabletop" d="m20,360 l450-80 l 490,80 l -170,55 l-200,-40q-150,-30 -300,10 l-100,25 z" style="fill: url(#grad3); stroke:black; stroke-width:1;"/>
+<path id="leftside" d="m20,360 l170,50 v295 l-170,-60 z" style="fill: url(#grad3); stroke:black; stroke-width:1;"/>
+<path id="rightside" d="m790,415 l170,-55 v15 l-40,13 v240 q25,-10 30,10 l-170,55 q-5,-20 25,-27 v-240 q-10,5 -15,-10  z m30,8 v240 l90,-30 v-240z" style="fill: grey; stroke:black; stroke-width:1;"/>
+
+<g id="chair">
+	<g id="frame" transform="translate(0,0)">	
+	<circle id="wheel" cx="510" cy="650" r="13" style="fill:#262626;" />
+	<use xlink:href="#wheel" transform="translate(45,75)" />
+	<use xlink:href="#wheel" transform="translate(198,80)" />
+	<use xlink:href="#wheel" transform="translate(225,5)" />	
+		<path id="stange2" class="frame1" d="m611,590 v50 q17,15 34,0 v-50 z" />
+		<ellipse id="lighter" class="frame2" cx="628" cy="590" rx="17" ry="9"  />
+		<path id="stange" class="frame1" d="m616,540 v50 q12,10 24,0 v-50 z" />		
+		<path class="frame1" d="m507,634 v-9 l 115,10 l115-8 v12 l -85,15 l60,52 v10 l-7,4 l-78,-55  l-66,48 l-10,-2 v-8 l48,-48 z" />
+		<path class="frame2" d="m507,626 l 115,10 l115-8 l -90,17 l65,60 l-7,4 l-75,-60  l-72,57 l-7,-2 l56,-58 z" />
+	</g>
+	
+<g id="this-is-old" transform="translate(570,-825) scale(-0.8,0.8)">
+
+
+            <g
+                 id="halterung">
+                <g
+                     id="g4306"
+                     transform="matrix(0.95965465,0.28118136,-0.28118136,0.95965465,526.20868,165.41711)">
+                    <path
+                         
+                         class="frame2"
+                         d="M -286.6875,1502.25 -294.625,1509.7812 -293.875,1520.7812 C -292.55001,1539.7728 -288.10362,1564.9249 -281.4375,1586.5625 -278.10444,1597.3813 -274.27008,1607.277 -269.53125,1615.3438 -264.79242,1623.4105 -259.07632,1631.1245 -248.53125,1632.5625 L -237.65625,1634.0625 -230.6875,1626.25 -245.5625,1610.7812 C -244.1841,1610.9692 -247.25445,1609.8187 -250.5625,1604.1875 -253.87055,1598.5563 -257.38515,1589.9 -260.40625,1580.0938 -266.44846,1560.4813 -270.73124,1536.0918 -271.90625,1519.25 z"
+                         id="use4302"
+                          />
+                    <path
+                         
+                         id="use4296"
+                         d="M -266.6875,1502.25 -288.625,1503.7812 -287.875,1514.7812 C -286.55001,1533.7728 -282.10362,1558.9249 -275.4375,1580.5625 -272.10444,1591.3813 -268.27008,1601.277 -263.53125,1609.3438 -258.79242,1617.4105 -253.07632,1625.1245 -242.53125,1626.5625 L -231.65625,1628.0625 -228.6875,1606.25 -239.5625,1604.7812 C -238.1841,1604.9692 -241.25445,1603.8187 -244.5625,1598.1875 -247.87055,1592.5563 -251.38515,1583.9 -254.40625,1574.0938 -260.44846,1554.4813 -264.73124,1530.0918 -265.90625,1513.25 L -266.6875,1502.25 z"
+                         class="frame1"/>
+                </g>
+                <g
+                     id="g4661"
+                     transform="matrix(1.0904149,0,0,1.0904149,103.49821,-139.19676)">
+                    <rect
+                         transform="matrix(0.62136877,-0.78351826,0.78351826,0.62136877,0,0)"
+                         ry="0"
+                         rx="0"
+                         y="906.54565"
+                         x="-1491.4532"
+                         height="4.6823149"
+                         width="21.76391"
+                         id="rect4366-5"
+                         class="frame2" />
+                    <path
+                         
+                         
+                         id="rect4366"
+                         d="M -236.39329,1750.2926 -222.3902,1732.6353 C -220.18841,1729.859 -216.15785,1729.4145 -213.35307,1731.6389 -210.54829,1733.8632 -210.06285,1737.889 -212.26464,1740.6654 L -226.26774,1758.3227 C -228.46953,1761.099 -232.50009,1761.5434 -235.30487,1759.3191 -238.10965,1757.0948 -238.59508,1753.069 -236.39329,1750.2926 z"
+                         class="frame1" />
+                </g>
+
+		<g id="sitz">
+    	<path d="M -183.22662,1719.8341 C -190.74436,1708.1674 -186.43599,1696.5008 -183.22662,1684.8341 -169.33639,1657.1662 -124.47435,1616.9888 -75.72662,1602.3341 -13.01407,1589.3802 56.4058,1595.9596 90.94004,1632.3341 98.93291,1641.917 101.37785,1659.5166 90.94004,1675.6675 78.30966,1697.2542 28.61004,1745.2225 -0.72662,1744.8341 -53.533072,1748.5641 -174.04213,1729.9227 -183.22662,1719.8341 z" style="fill:#337599;" />
+			<path d="M 97.73171,1649.8086 C 96.61462,1653.1031 95.05364,1656.398 92.95046,1659.6523 80.32008,1681.2391 30.59962,1729.2282 1.26296,1728.8398 -51.54349,1732.5698 -172.05255,1713.9284 -181.23704,1703.8398 -183.74089,1699.9542 -184.91061,1696.0693 -185.26829,1692.1836 -187.71878,1701.4018 -189.17703,1710.6216 -183.23704,1719.8398 -174.05255,1729.9284 -53.54349,1748.5698 -0.73704,1744.8398 28.59962,1745.2282 78.32008,1697.2391 90.95046,1675.6523 96.5681,1666.9599 98.43385,1657.8647 97.73171,1649.8086 z" style="opacity:0.2;fill:#000000;" />
+		</g>
+		<g id="Lehne">
+			<path d="M -244.47547,1612.8449 C -221.41947,1620.533 -138.65663,1592.0691 -107.86269,1552.5838 -94.595428,1521.7645 -110.91491,1445.894 -134.51856,1437.5541 -178.33933,1426.0054 -230.94928,1452.1244 -255.41103,1479.291 -273.02042,1516.9928 -265.12767,1605.3697 -244.47547,1612.8449 z" style="fill:#337599;" />
+    	<path d="M -249.98704,1473.7461 C -251.9159,1475.5862 -253.74818,1477.4156 -255.42454,1479.2773 -273.03393,1516.9791 -265.13924,1605.3647 -244.48704,1612.8398 -221.43104,1620.528 -138.65598,1592.0751 -107.86204,1552.5898 -107.21274,1551.0815 -106.62223,1549.457 -106.11204,1547.7461 -140.62227,1583.432 -214.85258,1608.0539 -236.48704,1600.8398 -256.03799,1593.7633 -264.11703,1514.1995 -249.98704,1473.7461 z" style="opacity:0.2;fill:#000000;" />
+			</g>
+
+        </g>
+    </g>
+
+</g>
+
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2950" xmlns="http://www.w3.org/2000/svg" height="128" width="128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient3093">
+   <stop id="stop3095" stop-color="#a39066" offset="0"/>
+   <stop id="stop3097" stop-color="#a39066" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3065" y2="475.67" gradientUnits="userSpaceOnUse" x2="575.69" gradientTransform="translate(-.0000035004)" y1="497.98" x1="575.69">
+   <stop id="stop3061" stop-color="#5b4926" offset="0"/>
+   <stop id="stop3063" stop-color="#ad9a6f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3099" y2="362.71" xlink:href="#linearGradient3093" gradientUnits="userSpaceOnUse" x2="419.2" y1="435.11" x1="599.04"/>
+  <linearGradient id="linearGradient3119" y2="68.5" gradientUnits="userSpaceOnUse" x2="85.25" y1="57" x1="38.5">
+   <stop id="stop3115" stop-color="#c8c9d2" offset="0"/>
+   <stop id="stop3117" stop-color="#c8c9d2" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3129" y2="425.5" gradientUnits="userSpaceOnUse" x2="574.28" y1="393.68" x1="574.28">
+   <stop id="stop3125" stop-color="#cab78d" offset="0"/>
+   <stop id="stop3127" stop-color="#cab78d" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3579" gradientUnits="userSpaceOnUse" cy="107.83" cx="64.3" gradientTransform="matrix(1 0 0 .20552 0 85.669)" r="61.845">
+   <stop id="stop3575" offset="0"/>
+   <stop id="stop3577" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <filter id="filter3645" y="-.13035" width="1.0536" x="-.026789" height="1.2607">
+   <feGaussianBlur id="feGaussianBlur3647" stdDeviation="1.6567812"/>
+  </filter>
+  <linearGradient id="linearGradient3655" y2="362.71" xlink:href="#linearGradient3093" gradientUnits="userSpaceOnUse" x2="419.2" gradientTransform="matrix(.88194 0 0 .88194 67.298 50.459)" y1="435.11" x1="599.04"/>
+ </defs>
+ <g id="layer1" transform="translate(-510.29 -388.36)">
+  <path d="m110.49 95.12s30.05 4.773 6.89 14.67c0 0-7.07 1.77-11.14-2.65 0 0 15.91 12.29-37.651 12.91 0 0-38.183 3.35-48.967-7.43 0 0-22.747-5.87-15.872-13.245 0 0 11.375-4.375 14.75-3.875" fill-rule="evenodd" transform="matrix(1.0572 0 0 1 505.55 389.07)" filter="url(#filter3645)" fill="url(#radialGradient3579)"/>
+  <path d="m530.37 486.34v-81.99l11.1-11.11h66.13l11.3 11.3v82.58h-88.53v-0.78z" fill-rule="evenodd" stroke="#312c23" stroke-width="2" fill="url(#linearGradient3129)"/>
+  <path d="m530.35 486.85v-81.99l88.53 0.19v82.58h-88.53v-0.78z" fill-rule="evenodd" stroke="#312c23" stroke-width="2" fill="#ad9a6f"/>
+  <rect id="rect3649" height="34.392" width="70.419" stroke="#312c23" y="409.18" x="539.08" stroke-width="1.5806" fill="#fff"/>
+  <rect id="rect3005" height="33.441" width="70.441" stroke="#312c23" y="410.14" x="539.07" stroke-width="1.5589" fill="url(#linearGradient3099)"/>
+  <path d="m561.79 427.55h24.05" stroke="#201c13" stroke-width="2.0487px" fill="none"/>
+  <rect id="rect3007" height="33.441" width="70.441" stroke="#000" y="448.14" x="539.07" stroke-width="1.5589"/>
+  <rect id="rect3653" opacity=".16667" height="29.493" width="62.125" stroke="#312c23" y="412.18" x="542.72" stroke-width="1.3748" fill="url(#linearGradient3655)"/>
+  <path d="m29.5 76.5l19.135-33.144 47.048 27.164-10.633 18.417-55.55-12.437z" fill-rule="evenodd" transform="translate(510.29 388.36)" fill="#34a5da"/>
+  <path fill-rule="evenodd" fill="#fff" d="m544.41 465.11l8.41-31.37 51.34 22.25-4.44 16.56-55.31-7.44z"/>
+  <path d="m34.125 76.75l8.407-31.375 51.343 22.25-4.437 16.559-55.313-7.434z" fill-rule="evenodd" transform="translate(510.29 388.36)" fill="url(#linearGradient3119)"/>
+  <rect id="rect3025" height="37.326" width="78.624" stroke="#000" y="462.96" x="534.91" stroke-width="1.74" fill="#fff"/>
+  <path d="m34.063 8.6757h59.894l6.103 6.0993h-72.218l5.657-5.6573 0.45-0.4503 0.114 0.0083z" fill-rule="evenodd" transform="translate(510.29 388.36)" fill="#ad9a6f"/>
+  <rect id="rect3009" height="37.326" width="78.624" stroke="#312c23" y="462.96" x="534.91" stroke-width="1.74" fill="url(#linearGradient3065)"/>
+  <path d="m559.23 482.07h28.99" stroke="#201c13" stroke-width="2.4707px" fill="none"/>
+ </g>
+</svg>
